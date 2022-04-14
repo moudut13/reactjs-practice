@@ -1,0 +1,43 @@
+.card{
+    margin: 0 auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 400px;
+    padding: 30px;
+    border: 2px solid #43e345;
+    border-radius: 5px;
+}
+
+.card h1{
+    color: #343434;
+    margin-bottom: 10px;
+    font-family: "Arial";
+}
+
+.card form label, .card form input{
+    font-size: 16px;
+    margin-right: 10px;
+    padding: 10px;
+    color: #8a8a8a;
+    border: none;
+}
+.card form label{
+    color: #343434;
+}
+.card form input{
+    background-color: white;
+    margin-bottom: 5px;
+}
+.card form input:focus{
+    outline: none;
+    border-bottom: 1px solid #8a8a8a;
+}
+.card form button{
+    font-size: 16px;
+    padding: 10px;
+    color: #fff;
+    border: none;
+    background-color: teal;
+    border-radius: 5px;
+    margin-top: 20px;
+}
