@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+.icon{
+    color: #447091 !important;
+    text-decoration: none!important;
+    font-size: 20px;
+    font-weight: 900;
+    font-family: 'Roboto', sans-serif !important;
+
+}
+.link{
+    color: #312c2c !important;
+    text-decoration: none!important;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: 'Roboto', sans-serif !important;
+
+}
+.active:active{
+    background-color: #2ac02c;
+}

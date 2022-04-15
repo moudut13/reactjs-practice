@@ -1,10 +1,11 @@
+import React from "react";
 import MainComponent from "./Component/MainComponent";
 
 function App() {
   return (
-    <div>
-      <MainComponent />
-    </div>
+    <>
+        <MainComponent/>
+    </>
   );
 }
 
